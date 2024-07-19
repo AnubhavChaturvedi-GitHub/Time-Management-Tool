@@ -35,14 +35,14 @@ pip install -r requirements.txt
 
 To start managing your time like a pro:
 - Simply double-click the `.bat` file to launch the tool.
-- 
-If you wan't to sheel the list use command
+  
+- If you wan't to sheel the list use command
 ```
 Show
 ```
-inside the TMA - Tool
+ inside the TMA - Tool
 
-for Example Command type any thing wrong 
+- for Example Command type any thing wrong 
 ```
                         ______ Available commands _____
                       1. show - to show the Schedule file

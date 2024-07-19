@@ -35,6 +35,16 @@ pip install -r requirements.txt
 
 To start managing your time like a pro:
 - Simply double-click the `.bat` file to launch the tool.
+- 
+If you wan't to sheel the list use command
+```
+Show
+```
+inside the TMA - Tool
 
+for Example Command type any thing wrong 
+```
+
+```
 
 *For more details and updates on our interstellar missions, visit our [GitHub repository](https://github.com/AnubhavChaturvedi-GitHub/Time-Management-Tool).*

@@ -48,4 +48,3 @@ def input_manage(input_text):
             save_to_file(output, time, fr'{getcwd()}\schedule.txt')
         else:
             print(output)
-

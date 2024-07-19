@@ -8,7 +8,3 @@ def is_Online(url = "https://www.google.com",timeout=5):
     except requests.ConnectionError:
         return False
     
-
-
-
-    

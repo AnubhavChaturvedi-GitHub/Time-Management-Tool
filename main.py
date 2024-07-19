@@ -53,7 +53,7 @@ def check_schedule(file_path):
         time.sleep(60)
 
 
-intro("TMA - AI")
+intro("TMA - Tool")
 if  is_Online():
     print("Welcome To the Time Management Assistant Tool")
     speak("Welcome To the Time Management Assistant Tool")

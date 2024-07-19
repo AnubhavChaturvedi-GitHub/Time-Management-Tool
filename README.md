@@ -4,7 +4,7 @@ This tool will help you to manage your task and time
 
 ![Screenshot](https://github.com/AnubhavChaturvedi-GitHub/Time-Management-Tool/blob/main/Screenshot%202024-07-19%20174610.png)
 
-#SetUp
+# SetUp
 
 **Step : 1**
 ```
@@ -31,7 +31,7 @@ copy your main.py file path
 paste in second line of BAT file
 ```
 
-#Usage
+# Usage
 ```
 Click on Dot Bat File And run 
 ```

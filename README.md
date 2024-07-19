@@ -44,7 +44,9 @@ inside the TMA - Tool
 
 for Example Command type any thing wrong 
 ```
-
+                        ______ Available commands _____
+                      1. show - to show the Schedule file
+                      2. tell me - try like "tell me to sleep at 09:00pm"
 ```
 
 *For more details and updates on our interstellar missions, visit our [GitHub repository](https://github.com/AnubhavChaturvedi-GitHub/Time-Management-Tool).*
